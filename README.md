@@ -10,18 +10,18 @@ What if instead of ____ we do ____ etc and etc and etc. So I decided to learn a 
 
 As it stands now though, the following concepts are supposed to be implemented into the code:
 
-# chemical massangers
-# multiple or singular puleses
-# normal valve opening based on "ions"
-# free energy pinciple ( high level )
+Chemical massangers
+multiple or singular puleses
+normal valve opening based on "ions"
+free energy pinciple ( high level )
 
-# Integrators: respond based on cumulative input strength.
-#      Bistable integrators (saddle-node): can rest or fire persistently depending on history.
-#      Monostable integrators (SNIC): fire only when input eliminates rest via bifurcation.
-#
-# Resonators: sensitive to input timing and rhythms.
-#      Supercritical Hopf: oscillate in response to rhythmic input.
-#      Subcritical Hopf: bistable oscillators responding to precise timing
+Integrators: respond based on cumulative input strength.
+      Bistable integrators (saddle-node): can rest or fire persistently depending on history.
+      Monostable integrators (SNIC): fire only when input eliminates rest via bifurcation.
+
+Resonators: sensitive to input timing and rhythms.
+      Supercritical Hopf: oscillate in response to rhythmic input.
+      Subcritical Hopf: bistable oscillators responding to precise timing
 
 
 Some YouTube videos that basically made me come up with the above mentioned ideas:
